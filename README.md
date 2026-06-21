@@ -10,12 +10,12 @@ Each skill is a battle-tested workflow — not documentation. It gives Claude en
 
 **Install everything:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/claude-skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tylersexton-dev/claude-skills/main/install.sh | bash
 ```
 
 **Install manually:**
 ```bash
-git clone https://github.com/yourusername/claude-skills.git
+git clone https://github.com/tylersexton-dev/claude-skills.git
 cd claude-skills
 ./install.sh
 ```
